@@ -6,4 +6,5 @@
 <p>React-vite</p>
 <br/>
 <br/>
-<img src=""/>
+<img src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restaurante.jpeg?raw=true"/>
+<img src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restaurante.jpeg?raw=true"/>
