@@ -6,6 +6,6 @@
 <p>React-vite</p>
 <br/>
 <div style="display: flex; gap: 10px;">
-<img width="600" height="600" src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restaurante.jpeg?raw=true"/>
-<img width="400" height="600" src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restautante2.jpeg?raw=true"/>
+<img width="400" height="400" src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restaurante.jpeg?raw=true"/>
+<img width="200" height="300" src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restautante2.jpeg?raw=true"/>
 </div>
